@@ -99,7 +99,7 @@ class Anushree:
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF9C)](https://github.com/AnushreeSanjeev30)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C)](https://linkedin.com/in/anushree-sanjeev)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF9C)](mailto:anushreesawant04@gmail.com)
+
 
 </div>
 
