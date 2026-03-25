@@ -29,7 +29,6 @@ class Anushree:
     collab      = "👯 Open to collaborating on ML, AI & Data Science projects"
     help_with   = "🤔 Advanced DL architectures & MLOps"
     ask_me      = "💬 Python · scikit-learn · Data pipelines · Apache Kafka"
-    reach_me    = "📫 anushreesawant04@gmail.com"
     fun_fact    = "⚡ I don't trust gut feelings — I let the data decide 📊"
     looking_for = "Internship / Entry-level roles in ML & Data Science"
 
